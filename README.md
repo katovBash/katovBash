@@ -1,4 +1,4 @@
-# Hi, I'm Nikita 👋🏽
+# Waz up?👋🏽
 - 🍾 Passionate developer. 
 - 👨🏽‍💻 Mainly focus on iOS and watchOS.
 - 💭 Secret is simple: learning every day & balance in life.
