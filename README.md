@@ -1,4 +1,4 @@
-# Waz up?👋🏽
+# Waz up? 👋🏽
 - 🍾 Passionate developer. 
 - 👨🏽‍💻 Mainly focus on iOS development. 
 - 💭 All is simple: learning every day & balance in life.
